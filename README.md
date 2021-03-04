@@ -12,6 +12,9 @@
 - 使用vless+tcp+xtls模式
 - 回落使用nginx，配置wordpress
 
+## install_triple_config.sh使用
+bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install_triple_config.sh)
+
 ## install.sh使用
 bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install.sh)
 
